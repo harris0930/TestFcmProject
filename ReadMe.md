@@ -5,20 +5,20 @@ Google 推薦之前使用 GCM 的應該換成 FCM (FCM 繼承 GCM，下層結構還是 GCM)
 
 
 ## 參考網站
-官網教學IOS
+### 官網教學IOS
 https://firebase.google.com/docs/cloud-messaging/ios/client
+### IOS FCM推播文章
+http://jack120707.blogspot.tw/2016/06/google-firebasenotification-objective-c.html
 
-FCM推播文章:http://jack120707.blogspot.tw/2016/06/google-firebasenotification-objective-c.html
-
-官網教學Android
+### 官網教學Android
 https://firebase.google.com/docs/cloud-messaging/android/client
 
-FCM推播文章: https://litotom.com/2016/06/24/android-firebase-cloud-messaging-1/
+### Android FCM推播文章
+https://litotom.com/2016/06/24/android-firebase-cloud-messaging-1/
  
-
-##IOS
+## IOS
 1.Bundle ID:產生 plist (須將此檔案放置專案內)
 2.APN 憑證跟密碼:推播使用
 
-##Android 
+## Android 
 1.package name 和SHA1:產生 google-services.json (須將此檔案放置專案內)
