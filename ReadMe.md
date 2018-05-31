@@ -1,24 +1,24 @@
-# FCM´ú¸Õ
-¨Ï¥Î FCM ¨Ó³qª¾ APP ¦³·sªº°T®§»İ­n¦P¨B(¨Ò¦p³qª¾¦³·sªº email )
-¶Ç°eªº°T®§³Ì¤j¨ì 4KB ¨ì client App
-Google ±ÀÂË¤§«e¨Ï¥Î GCM ªºÀ³¸Ó´«¦¨ FCM (FCM Ä~©Ó GCM¡A¤U¼hµ²ºcÁÙ¬O GCM)
+# FCM(Firebase Cloud Messaging Client)æ¸¬è©¦
+ä½¿ç”¨ FCM ä¾†é€šçŸ¥ APP æœ‰æ–°çš„è¨Šæ¯éœ€è¦åŒæ­¥(ä¾‹å¦‚é€šçŸ¥æœ‰æ–°çš„ email )
+å‚³é€çš„è¨Šæ¯æœ€å¤§åˆ° 4KB åˆ° client App
+Google æ¨è–¦ä¹‹å‰ä½¿ç”¨ GCM çš„æ‡‰è©²æ›æˆ FCM (FCM ç¹¼æ‰¿ GCMï¼Œä¸‹å±¤çµæ§‹é‚„æ˜¯ GCM)
 
 
-## °Ñ¦Òºô¯¸
-### ©xºô±Ğ¾ÇIOS
+## åƒè€ƒç¶²ç«™
+### å®˜ç¶²æ•™å­¸IOS
 https://firebase.google.com/docs/cloud-messaging/ios/client
-### IOS FCM±À¼½¤å³¹
+### IOS FCMæ¨æ’­æ–‡ç« 
 http://jack120707.blogspot.tw/2016/06/google-firebasenotification-objective-c.html
 
-### ©xºô±Ğ¾ÇAndroid
+### å®˜ç¶²æ•™å­¸Android
 https://firebase.google.com/docs/cloud-messaging/android/client
 
-### Android FCM±À¼½¤å³¹
+### Android FCMæ¨æ’­æ–‡ç« 
 https://litotom.com/2016/06/24/android-firebase-cloud-messaging-1/
  
 ## IOS
-1.Bundle ID:²£¥Í plist (¶·±N¦¹ÀÉ®×©ñ¸m±M®×¤º)
-2.APN ¾ÌÃÒ¸ò±K½X:±À¼½¨Ï¥Î
+1.Bundle ID:ç”¢ç”Ÿ plist (é ˆå°‡æ­¤æª”æ¡ˆæ”¾ç½®å°ˆæ¡ˆå…§)
+2.APN æ†‘è­‰è·Ÿå¯†ç¢¼:æ¨æ’­ä½¿ç”¨
 
 ## Android 
-1.package name ©MSHA1:²£¥Í google-services.json (¶·±N¦¹ÀÉ®×©ñ¸m±M®×¤º)
+1.package name å’ŒSHA1:ç”¢ç”Ÿ google-services.json (é ˆå°‡æ­¤æª”æ¡ˆæ”¾ç½®å°ˆæ¡ˆå…§)
