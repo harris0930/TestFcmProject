@@ -14,6 +14,7 @@ http://jack120707.blogspot.tw/2016/06/google-firebasenotification-objective-c.ht
 https://firebase.google.com/docs/cloud-messaging/android/client
 
 ### Android FCM推播文章
+http://jc7003.pixnet.net/blog/post/346525814-android-%E7%B0%A1%E5%96%AE%E5%AF%A6%E4%BD%9Cfcm%E6%8E%A8%E6%92%AD%E6%9C%8D%E5%8B%99
 
  
 ## IOS
