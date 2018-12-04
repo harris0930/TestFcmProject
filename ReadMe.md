@@ -14,7 +14,7 @@ http://jack120707.blogspot.tw/2016/06/google-firebasenotification-objective-c.ht
 https://firebase.google.com/docs/cloud-messaging/android/client
 
 ### Android FCM推播文章
-https://litotom.com/2016/06/24/android-firebase-cloud-messaging-1/
+
  
 ## IOS
 1.Bundle ID:產生 plist (須將此檔案放置專案內)
